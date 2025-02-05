@@ -1,2 +1,3 @@
-# ImmichUploader
+# PyCal
+Python Calendar Manager
  
